@@ -31,4 +31,7 @@ Organic  ──▶  Recyclable  ──▶  Hazardous
 
 Each collector in the chain handles its designated waste type and passes unrecognized containers to the next handler.
 
+## 🖧 UML Class Diagram 
+![Alt text](ChainOfResponsibility.png)
+
 
