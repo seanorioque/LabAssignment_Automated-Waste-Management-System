@@ -1,6 +1,3 @@
-Readme · MD
-Copy
-
 # ♻️ Automated Waste Management System
 
 ## 📋 Background
